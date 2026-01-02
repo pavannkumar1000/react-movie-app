@@ -16,13 +16,13 @@ This is a **React movie browsing app** built using **React + Vite**.
 - React
 - Vite
 - JavaScript (ES6+)
-- Tailwind CSS / CSS (if used)
+- CSS 
 - TMDB API
 - Netlify for deployment
 
 ## Live Demo
 
-[View Live Site](https://your-netlify-url.netlify.app)
+[View Live Site]([https://your-netlify-url.netlify.app](https://react-movie-app-using-tmdb-api.netlify.app/))
 
 ## Source Code
 
