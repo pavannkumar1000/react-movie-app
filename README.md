@@ -22,7 +22,7 @@ This is a **React movie browsing app** built using **React + Vite**.
 
 ## Live Demo
 
-[View Live Site]([https://your-netlify-url.netlify.app](https://react-movie-app-using-tmdb-api.netlify.app/))
+[View Live Site](https://react-movie-app-using-tmdb-api.netlify.app/)
 
 ## Source Code
 
